@@ -1,1 +1,1 @@
-Hello Everyone, this file contains DB related code..
+Hello we are using JDBC for connecting to database
